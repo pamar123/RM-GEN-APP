@@ -34,5 +34,5 @@ If you have any questions, please reach out to [pamar123](https://github.com/pam
 
 Watch the video below for a demonstration of the README generator application:
 
-[Watch the README Generator Walkthrough](https://link-to-your-video.com)
+[Watch the README Generator Walkthrough](https://drive.google.com/file/d/1nk4OMNxw6h-QttnoP2_uulGwCVJkZvlU/view?usp=sharing)
 
