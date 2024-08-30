@@ -29,3 +29,10 @@ To test the project, run the provided test suite using the command npm test. The
 
 ## Questions
 If you have any questions, please reach out to [pamar123](https://github.com/pamar123) or email me at pamar@umich.edu.
+
+## Walkthrough Video
+
+Watch the video below for a demonstration of the README generator application:
+
+[Watch the README Generator Walkthrough](https://link-to-your-video.com)
+
